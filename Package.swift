@@ -8,7 +8,7 @@ let package = Package(
     ],
     dependencies: [
         // Menambahkan dependensi Swift-YouTube-Player
-        .package(url: "https://github.com/gilesvangruisen/Swift-YouTube-Player", from: "2.0.0")
+        .package(url: "https://github.com/OfficialKeen/Swift-YouTube-Player", from: "2.0.0")
     ],
     products: [
         .library(
